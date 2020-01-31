@@ -5,7 +5,7 @@ Presentación.
 
 Temario, dinámica de la clase y forma de evaluación. 
 
-Fechas, recursos e información -> https://github.com/EmilioOcelotl/centro2020-II-3
+Fechas, recursos e información -> https://github.com/MarianneTeixido/centro2020-II-3
 
 Utilizaremos GitHub, una plataforma de desarrollo colaborativo, para subir apuntes, códigos y referencias vistas en clase. 
 
